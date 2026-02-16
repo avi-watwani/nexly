@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "card-onyx",
+      "description": "A sleek, black smart business card.",
+      "imageUrl": "https://images.unsplash.com/photo-1648161235864-00702f154f09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxibGFjayUyMGNhcmR8ZW58MHx8fHwxNzYzNzIwMzgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black card"
+    },
+    {
+      "id": "card-pearl",
+      "description": "An elegant, white smart business card.",
+      "imageUrl": "https://images.unsplash.com/photo-1719937076006-041292dbdfbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3aGl0ZSUyMGNhcmR8ZW58MHx8fHwxNzYzNzIwMzgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "white card"
+    },
+    {
+      "id": "card-sapphire",
+      "description": "A vibrant, blue smart business card.",
+      "imageUrl": "https://images.unsplash.com/photo-1611210991827-c46845fc502c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxibHVlJTIwY2FyZHxlbnwwfHx8fDE3NjM3MjAzODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blue card"
+    },
+    {
+      "id": "card-gold",
+      "description": "A luxurious, gold-plated smart business card.",
+      "imageUrl": "https://images.unsplash.com/photo-1558723223-0f8c63ea0fed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxnb2xkJTIwY2FyZHxlbnwwfHx8fDE3NjM3MTU2MDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gold card"
+    },
+    {
+      "id": "card-bamboo",
+      "description": "A natural bamboo smart business card.",
+      "imageUrl": "https://images.unsplash.com/photo-1724959514143-f8ee96db3c83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxiYW1ib28lMjBjYXJkfGVufDB8fHx8MTc2MzcyMDM4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bamboo card"
+    },
+    {
+      "id": "card-metal",
+      "description": "A brushed metal smart business card.",
+      "imageUrl": "https://images.unsplash.com/photo-1675669313780-2db180653332?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtZXRhbCUyMGNhcmR8ZW58MHx8fHwxNzYzNzIwMzg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "metal card"
+    },
+    {
+      "id": "hero-image",
+      "description": "A person tapping a smart business card on a phone.",
+      "imageUrl": "https://images.unsplash.com/photo-1705948354275-d55101017fb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxidXNpbmVzcyUyMGNhcmQlMjBwaG9uZXxlbnwwfHx8fDE3NjM3MjAzODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business card phone"
+    },
+    {
+      "id": "user-avatar",
+      "description": "A placeholder avatar for a user profile.",
+      "imageUrl": "https://images.unsplash.com/photo-1750535135645-005e250ff210?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwYXZhdGFyfGVufDB8fHx8MTc2MzY0Mzg4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar"
+    }
+  ]
+}
