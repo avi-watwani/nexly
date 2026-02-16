@@ -6,7 +6,7 @@ import { Footer } from '@/components/footer';
 import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
-  title: 'CardConnect Dubai',
+  title: 'Nexly Dubai',
   description: 'The future of networking with smart business cards in Dubai.',
 };
 

@@ -1,4 +1,4 @@
-# **App Name**: CardConnect Dubai
+# **App Name**: Nexly Dubai
 
 ## Core Features:
 

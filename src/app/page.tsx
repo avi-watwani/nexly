@@ -19,7 +19,7 @@ export default function Home() {
               The Future of Networking in Dubai
             </h1>
             <p className="mt-4 text-lg md:text-xl text-muted-foreground-dark">
-              Instantly share your contact info, social media, and more with a single tap. Welcome to CardConnect.
+              Instantly share your contact info, social media, and more with a single tap. Welcome to Nexly.
             </p>
             <div className="mt-8 flex gap-4 justify-center md:justify-start">
               <Button asChild size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
@@ -47,7 +47,7 @@ export default function Home() {
 
       <section id="features" className="py-16 md:py-24 bg-background">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="font-headline text-3xl md:text-4xl font-bold">Why Choose CardConnect?</h2>
+          <h2 className="font-headline text-3xl md:text-4xl font-bold">Why Choose Nexly?</h2>
           <p className="mt-4 max-w-3xl mx-auto text-muted-foreground">
             Our smart business cards are designed for the modern professional in Dubai. Make a lasting impression with cutting-edge technology.
           </p>
